@@ -12,6 +12,6 @@
 
 ## Diagrama de clases
 
-![Clases]()
+![Clases](https://github.com/cristianrodriguez05/Modelamiento_estatico_curso/blob/main/Diagramas%20ejercicio%20cursos/modelamiento_clases_curso.jpg?raw=true)
 
 ## Diagrama de secuencia
