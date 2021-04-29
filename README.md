@@ -1,0 +1,1 @@
+# Modelamiento_estatico_curso
