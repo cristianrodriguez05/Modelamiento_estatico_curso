@@ -16,4 +16,4 @@
 
 ## Diagrama de secuencia
 
-![Secuencia]()
+![Secuencia](https://github.com/cristianrodriguez05/Modelamiento_estatico_curso/blob/main/Diagramas%20ejercicio%20cursos/diagrama%20de%20secuencia%20grupos.jpg)
